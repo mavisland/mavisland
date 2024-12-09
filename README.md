@@ -39,7 +39,8 @@ I'm currently seeking roles in **Germany** with relocation opportunities. I aim 
 - **Portfolio**: [tanjuyildiz.com](https://tanjuyildiz.com)
 
 ### 📈 GitHub Stats
-![Tanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavisland&show_icons=true&theme=radical)
+![Tanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavisland&count_private=true&show_icons=true&theme=dracula)
+![Tanju's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavisland&theme=dracula)
 
 ---
 💡 *Let's build something amazing together!*
