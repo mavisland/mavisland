@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Tanju Yıldız
 
 ### 🚀 About Me
-I'm a passionate **Full Stack Developer** and **Project Manager** at _Raporzen Software House_, where I focus on leading teams to deliver top-tier web development projects. I balance a keen sense of design with robust technical solutions. Our recent work emphasizes the importance of collaboration and innovative problem-solving, ensuring that every solution is tailored to meet our clients' distinct needs. 
+I am a Full Stack Developer with strong experience in building and leading software projects across different industries. Over the years, I have worked on B2B sales portals, e-commerce platforms, quotation systems, language school management platforms, dashboards, and CRM solutions, delivering scalable and user-focused applications.
 
-Previously, as a **Full Stack Developer** at _Grafix Creative Workshop_, I honed my skills in PHP, MySQL, and JavaScript, particularly with React, to create impactful e-commerce and B2B solutions. My project management and development approach is characterized by a relentless pursuit of quality and performance, always pushing the boundaries of what is possible in web technology.
+My technical toolkit includes PHP, MySQL, Laravel, JavaScript, React, Tailwind CSS, SASS, Bootstrap, and modern frontend workflows. I enjoy designing clean architectures, optimizing for performance and accessibility, and transforming complex requirements into simple, functional solutions.
 
-Live in Konya, Türkiye, I have dedicated my career to building high-quality web and software applications. 
+In addition to coding, I have led teams through project planning, task delegation, and code reviews, helping developers grow while ensuring timely delivery. I thrive in collaborative environments where innovative problem-solving meets real business needs.
+
+Always curious and driven, I aim to create solutions that not only meet client expectations but also improve processes and deliver long-term value.
 
 ### 💼 Professional Skills
 - **Frontend Development**: HTML, CSS, JavaScript, jQuery, VueJS, React
